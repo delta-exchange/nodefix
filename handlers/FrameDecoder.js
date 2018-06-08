@@ -1,7 +1,6 @@
 var fixutil = require('../fixutils.js');
 var util = require('util');
-var { Observable } = require('rx')
-const _ = require('lodash')
+var { Observable } = require('rx');
 
 //static vars
 const SOHCHAR = String.fromCharCode(1)
